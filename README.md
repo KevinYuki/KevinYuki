@@ -8,7 +8,7 @@ Engenheiro de Computação apaixonado por tecnologia, inovação e desenvolvimen
 ## 🚀 Sobre Mim
 
 - 🎓 Engenheiro de Computação pelo Instituto Mauá de Tecnologia (2016–2020)
-- 📚 Pós-graduação em andamento em Arquitetura de Software, Ciência de Dados e Cybersecurity (PUC-Campinas e PUCPR)
+- 📚 Pós-graduação em andamento em Arquitetura de Software, Ciência de Dados e Cybersecurity pela PUC-Campinas e PUCPR (2025-atual)
 - 🏆 Terceiro colocado no Hackaton Unisys Mauá
 - 🧠 Certificações: Professional Scrum Master I (Scrum.org), CyberSecurity Essentials (Cisco)
 
